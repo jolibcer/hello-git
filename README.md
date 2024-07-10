@@ -1,2 +1,2 @@
 Pruebas con Git! y GitHub!
-Creado documento para incorporar el manual del usuario.
+Creado documento para incorporar el manual del usuario. Cambio local.
